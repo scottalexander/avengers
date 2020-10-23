@@ -1,0 +1,67 @@
+{
+    "avengers": [
+      {
+        "id": 1,
+        "first_name": "Tony",
+        "last_name": "Stark",
+        "email": "ironman@theavengers.com",
+        "alias": "Iron Man"
+      },
+      {
+        "id": 2,
+        "first_name": "Bruce",
+        "last_name": "Banner",
+        "email": "hulk@theavengers.com",
+        "alias": "Hulk"
+      },
+      {
+        "id": 3,
+        "first_name": "Thor",
+        "last_name": "Odinson",
+        "email": "thor@theavengers.com",
+        "alias": "Thor"
+      },
+      {
+        "id": 4,
+        "first_name": "Natalia",
+        "last_name": "Romanova",
+        "email": "blackwidow@theavengers.com",
+        "alias": "Black Widdow"
+      },
+      {
+        "alias": "Spider-Man",
+        "first_name": "Peter",
+        "last_name": "Parker",
+        "email": "spider-man@theavengers.com",
+        "id": 5
+      },
+      {
+        "alias": "Captain America",
+        "first_name": "Steve",
+        "last_name": "Rogers",
+        "email": "captain-america@theavengers.com",
+        "id": 6
+      },
+      {
+        "alias": "Black Panther",
+        "first_name": "Black",
+        "last_name": "Panther",
+        "email": "Black.Panther@avengers.com",
+        "id": 7
+      },
+      {
+        "alias": "test",
+        "first_name": "test1",
+        "last_name": "test1",
+        "email": "test1@me.com",
+        "id": 8
+      },
+      {
+        "alias": "Hawkeye",
+        "first_name": "Hawk",
+        "last_name": "Eye",
+        "email": "Hawk.Eye@avengers.com",
+        "id": 9
+      }
+    ]
+  }
